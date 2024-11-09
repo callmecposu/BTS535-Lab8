@@ -1,1 +1,12 @@
 # BTS535-Lab8
+
+## Gantt Chart
+
+> Done by:
+> - Maksym Volkovynskyi
+> - Japit Singh
+> - Anurag Das
+
+[BTS535 Lab 8 Gantt Chart](BTS535_Lab_8_Gantt_Chart.xlsx)
+
+![alt text](gantt_chart_preview.png)
