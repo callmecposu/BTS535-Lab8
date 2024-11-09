@@ -19,3 +19,4 @@
 > - Jiseok Shim
 
 [BTS535 Lab 8 Preliminary Budget](Budget.xlsx)
+![alt text](Preliminary_Budget.png)
